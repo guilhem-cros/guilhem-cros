@@ -4,13 +4,13 @@
 
 I am a fifth year engineering student in Computer Science and Management at Polytech Montpellier, currently studying in ÉTS Montréal.
 ## 🚀 About Me
-📍 **Location:** Montréal, QC - Canada
+📍 **Location:** Montréal, QC - Montpellier, FR
 
 📅 **Age:** 23
 
-🎓 **Study:** Polytech Montpellier
+🎓 **Study:** Polytech Montpellier - ÉTS Montréal
 
-✨ **Interests:** Soccer, Music
+✨ **Interests:** Soccer, Music, Video games
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
